@@ -1,6 +1,6 @@
 # ImagePixels
 MS Dhoni's picture rendered using python, where each pixel is a picture from his career.
-
+[A demo video](https://www.youtube.com/watch?v=0i_mou-1Qcc)
 ---
 ### 1. Collect images.
 In my case I scraped gettyimages site to get around 5000 images of MS Dhoni.
