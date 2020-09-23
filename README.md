@@ -1,5 +1,5 @@
 # ImagePixels
-MS Dhoni's picture rendered using python, where each pixel is a picture from his career.
+MS Dhoni's picture rendered using python, where each pixel is a picture from his career.<br>
 [A demo video](https://www.youtube.com/watch?v=0i_mou-1Qcc)
 ---
 ### 1. Collect images.
