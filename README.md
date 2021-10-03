@@ -15,4 +15,4 @@ Choose the picture you want to use for rendering and resize it.
 Access each pixel intensity in the image and replace it with the corresponding image with same intensity.
 If there isn't a image with same intensity, then replace it with a image having closest intensity.
 Subscribe to my YT channel.
-enjoy the code
+enjoy the coding
